@@ -1,0 +1,75 @@
+    1  uuidgen
+    2  cd projects
+    3  gcc
+    4  sudo apt install gcc
+    5  ls
+    6  ls ~
+    7  cd c:\windows\system32
+    8  cd c:/windows/system32
+    9  cd..
+   10  cd ~
+   11  cd mnt
+   12  grep -Ril "gcc" /
+   13  grep -rnw / -e "gcc"
+   14  ack 'gcc'
+   15  grep 'gcc' /
+   16  ls 'gcc'
+   17  ls -h
+   18  ls . 'gcc'
+   19  clear
+   20  l
+   21  ls
+   22  ls .
+   23  ls ~
+   24  ls ~\usr\bin
+   25  ls ~/usr/bin
+   26  ls
+   27  gcc
+   28  sudo apt install gcc
+   29  clear
+   30  cd inno-f19-os
+   31  cd week01/
+   32  sh ex3.sh
+   33  sh ex3.sh
+   34  clear
+   35  sh ex3.sh
+   36  cd INNO-F19-OS/week01/
+   37  gcc main.c -o ex4
+   38  ./ex4
+   39  clear
+   40  gcc main.c -o a.out
+   41  cd week01
+   42  gcc main.c -o a.out
+   43  gcc main.c
+   44  gcc main.c -o a.out
+   45  gcc main.c -o 
+   46  gcc main.c -o code
+   47  gcc main.c
+   48  gcc main.c -o ../code
+   49  gcc main.c
+   50  cd week01
+   51  gcc main.c -o ex7
+   52  gcc ex4
+   53  cd INNO-F19-OS/week01/
+   54  gcc main.c
+   55  gcc ./a.out
+   56  gcc main.c -o a.out
+   57  gcc a.out
+   58  gcc ./a.out
+   59  gcc .\a.out
+   60  gcc a.out
+   61  gcc main.c -o a.out
+   62  gcc a.out
+   63  gcc week01/main.c
+   64  gcc a.out
+   65  gcc week01/main.c
+   66  gcc a.out
+   67  gcc week01/main.c
+   68  gcc week01/main.c -o ex4
+   69  gcc ex4
+   70  gcc week01/main.c -o ex4
+   71  gcc ex4
+   72  cd week01/
+   73  clearls /usr/bin -r | grep "gcc" >> ex1.txtclearls /usr/bin -r | grep "gcc" >> ex1.txtls /usr/bin -r | grep "gcc" >> ex1.txtcd week01/
+   74  ls /usr/bin -r | grep "gcc" > ex1.txt
+   75  history > ex2.txt
