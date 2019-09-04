@@ -75,6 +75,8 @@ int main()
     head = delete_node(head, 3);
     head = delete_node(head, 1);
     // [0]6 -> [1]8 -> [2]10
+    head = delete_node(head, 0);
+    // [0]8 -> [1]10
     print_list(head);
     return 0;
 }
