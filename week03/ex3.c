@@ -42,7 +42,7 @@ Node *insert_node(Node *head, int index, int value) // index after which to inse
 }
 
 // return head pointer
-Node *delete_node(Node *head, int index)
+Node *delete_node(Node *head, int index) // index which to delete
 {
     Node *r_head = head;
     if (index == 0)
