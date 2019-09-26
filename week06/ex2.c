@@ -18,13 +18,15 @@ int main()
 
     if (fork())
     {
+        close(p[0]);
         write(p[1], from, LEN);
-        wait(NULL);
+        close(p[1]);
     }
     else
     {
-        while (read(p[0], to, LEN) <= 0)
-            ;
+        close(p[1]);
+        read(p[0], to, LEN);
+        close(p[0]);
         printf("%s\n", to);
     }
 
