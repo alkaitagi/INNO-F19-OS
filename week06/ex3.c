@@ -3,15 +3,15 @@
 
 int catched = 0;
 
-void sigintHandler(int sig_num)
+void sigint(int sig_num)
 {
     catched = 1;
-    printf("\r\nPressed Ctrl+C. Terminating...\r\n");
+    printf("\nPressed Ctrl+C. Terminating...\n");
 }
 
 int main()
 {
-    signal(SIGINT, sigintHandler);
+    signal(SIGINT, sigint);
     while (!catched)
         ;
     return 0;
