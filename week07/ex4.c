@@ -7,7 +7,10 @@ void *my_realloc(void *ptr, size_t old_size, size_t new_size)
     if (ptr == NULL)
         ptr = malloc(new_size);
     else if (!new_size)
+    {
         free(ptr);
+        ptr = NULL;
+    }
     else
     {
         int min_size = new_size < old_size ? new_size : old_size;
