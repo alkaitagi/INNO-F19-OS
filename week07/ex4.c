@@ -5,11 +5,11 @@
 void *my_realloc(void *ptr, size_t old_size, size_t new_size)
 {
     if (ptr == NULL)
-        ptr = malloc(new_size);
+        return malloc(new_size);
     else if (!new_size)
     {
         free(ptr);
-        ptr = NULL;
+        return NULL;
     }
     else
     {
@@ -17,9 +17,8 @@ void *my_realloc(void *ptr, size_t old_size, size_t new_size)
         void *buff = malloc(min_size);
         memcpy(buff, ptr, min_size);
         free(ptr);
-        ptr = buff;
+        return buff;
     }
-    return ptr;
 }
 
 int main(int argc, char const *argv[])
