@@ -1,27 +1,37 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 
-void* my_realloc()
+void *my_realloc(void *ptr, size_t old_size, size_t new_size)
 {
-    
+    if (ptr == NULL)
+        ptr = malloc(new_size);
+    else if (!new_size)
+        free(ptr);
+    else
+    {
+        int min_size = new_size < old_size ? new_size : old_size;
+        void *buff = malloc(min_size);
+        memcpy(buff, ptr, min_size);
+        free(ptr);
+        ptr = buff;
+    }
+    return ptr;
 }
 
 int main(int argc, char const *argv[])
 {
-    int n;
-    printf("Enter array size: ");
-    scanf("%d", &n);
+    const int size = 5, new_size = 10;
+    int *arr = (int *)malloc(size * sizeof(int));
 
-    int *arr = (int *)malloc(n * sizeof(int));
-
-    for (int i = 0; i < n; i++)
+    for (int i = 0; i < size; i++)
         arr[i] = i;
 
-    for (int i = 0; i < n; i++)
-        printf("%d ", arr[i]);
-    printf("\n");
+    arr = (int *)my_realloc(arr, size * sizeof(int), new_size * sizeof(int));
+
+    for (int i = 0; i < new_size; i++)
+        printf("%d: %d\n", i, arr[i]);
 
     free(arr);
-
     return 0;
 }
