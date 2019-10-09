@@ -1,0 +1,259 @@
+top - 13:40:48 up  2:33,  0 users,  load average: 0.52, 0.58, 0.59
+Tasks:  18 total,   1 running,  17 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.9 us,  3.6 sy,  0.0 ni, 91.2 id,  0.0 wa,  0.3 hi,  0.0 si,  0.0 st
+KiB Mem :  8268420 total,  2455212 free,  5583856 used,   229352 buff/cache
+KiB Swap: 25165824 total, 24425188 free,   740636 used.  2550832 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+    1 root      20   0    8892    228    188 S   0.0  0.0   0:00.15 init
+    7 root      20   0    8900    176    128 S   0.0  0.0   0:00.01 init
+    8 alkaita+  20   0   10660    452    424 S   0.0  0.0   0:00.03 sh
+    9 alkaita+  20   0   10660    484    452 S   0.0  0.0   0:00.01 sh
+   13 alkaita+  20   0   10660    464    436 S   0.0  0.0   0:00.00 sh
+   15 alkaita+  20   0  963908  51208  16648 S   0.0  0.6   0:15.30 node
+   34 alkaita+  20   0  860872  25204  10692 S   0.0  0.3   0:04.31 node
+   56 alkaita+  20   0 1205248 167064 162840 S   0.0  2.0   1:27.63 node
+   69 alkaita+  20   0   15076   3004   2916 S   0.0  0.0   0:00.52 bash
+   80 alkaita+  20   0 1452276  26264  22672 S   0.0  0.3   0:08.74 Microsoft.VSCod
+  123 alkaita+  20   0   10660    456    424 S   0.0  0.0   0:00.00 sh
+  124 alkaita+  20   0 3394680  41596  20004 S   0.0  0.5   0:05.35 vsls-agent
+ 2093 alkaita+  20   0  563840  23484  12832 S   0.0  0.3   0:00.18 node
+ 3231 alkaita+  20   0 4962296   7980   4256 S   0.0  0.1   0:00.12 Microsoft.VSCod
+ 3430 alkaita+  20   0 4962296   8724   4700 S   0.0  0.1   0:00.07 Microsoft.VSCod
+ 4748 alkaita+  20   0   13556   1500   1420 S   0.0  0.0   0:00.01 ex3.sh
+ 4754 alkaita+  20   0   20784  10744    400 S   0.0  0.1   0:00.01 a.out
+ 4755 alkaita+  20   0   15740   1860   1384 R   0.0  0.0   0:00.01 top
+
+top - 13:40:49 up  2:33,  0 users,  load average: 0.52, 0.58, 0.59
+Tasks:  18 total,   1 running,  17 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.9 sy,  0.0 ni, 98.5 id,  0.0 wa,  0.6 hi,  0.0 si,  0.0 st
+KiB Mem :  8268420 total,  2455212 free,  5583856 used,   229352 buff/cache
+KiB Swap: 25165824 total, 24425188 free,   740636 used.  2550832 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4754 alkaita+  20   0   31028  20988    400 S   2.0  0.3   0:00.03 a.out
+    1 root      20   0    8892    228    188 S   0.0  0.0   0:00.15 init
+    7 root      20   0    8900    176    128 S   0.0  0.0   0:00.01 init
+    8 alkaita+  20   0   10660    452    424 S   0.0  0.0   0:00.03 sh
+    9 alkaita+  20   0   10660    484    452 S   0.0  0.0   0:00.01 sh
+   13 alkaita+  20   0   10660    464    436 S   0.0  0.0   0:00.00 sh
+   15 alkaita+  20   0  963908  51208  16648 S   0.0  0.6   0:15.30 node
+   34 alkaita+  20   0  860872  25204  10692 S   0.0  0.3   0:04.31 node
+   56 alkaita+  20   0 1205248 167064 162820 S   0.0  2.0   1:27.63 node
+   69 alkaita+  20   0   15076   3004   2916 S   0.0  0.0   0:00.52 bash
+   80 alkaita+  20   0 1452276  26264  22672 S   0.0  0.3   0:08.74 Microsoft.VSCod
+  123 alkaita+  20   0   10660    456    424 S   0.0  0.0   0:00.00 sh
+  124 alkaita+  20   0 3394680  41596  20004 S   0.0  0.5   0:05.35 vsls-agent
+ 2093 alkaita+  20   0  563840  23484  12832 S   0.0  0.3   0:00.18 node
+ 3231 alkaita+  20   0 4962296   7980   4256 S   0.0  0.1   0:00.12 Microsoft.VSCod
+ 3430 alkaita+  20   0 4962296   8724   4700 S   0.0  0.1   0:00.07 Microsoft.VSCod
+ 4748 alkaita+  20   0   13556   1500   1420 S   0.0  0.0   0:00.01 ex3.sh
+ 4755 alkaita+  20   0   15740   1936   1456 R   0.0  0.0   0:00.01 top
+
+top - 13:40:50 up  2:33,  0 users,  load average: 0.52, 0.58, 0.59
+Tasks:  18 total,   1 running,  17 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.5 sy,  0.0 ni, 94.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :  8268420 total,  2455212 free,  5583856 used,   229352 buff/cache
+KiB Swap: 25165824 total, 24425188 free,   740636 used.  2550832 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+   56 alkaita+  20   0 1205248 166680 161204 S  15.0  2.0   1:27.78 node
+    1 root      20   0    8892    228    188 S   0.0  0.0   0:00.15 init
+    7 root      20   0    8900    176    128 S   0.0  0.0   0:00.01 init
+    8 alkaita+  20   0   10660    452    424 S   0.0  0.0   0:00.03 sh
+    9 alkaita+  20   0   10660    484    452 S   0.0  0.0   0:00.01 sh
+   13 alkaita+  20   0   10660    464    436 S   0.0  0.0   0:00.00 sh
+   15 alkaita+  20   0  963908  51208  16648 S   0.0  0.6   0:15.30 node
+   34 alkaita+  20   0  860872  25204  10692 S   0.0  0.3   0:04.31 node
+   69 alkaita+  20   0   15076   3004   2916 S   0.0  0.0   0:00.52 bash
+   80 alkaita+  20   0 1452276  26264  22672 S   0.0  0.3   0:08.74 Microsoft.VSCod
+  123 alkaita+  20   0   10660    456    424 S   0.0  0.0   0:00.00 sh
+  124 alkaita+  20   0 3394664  41596  20004 S   0.0  0.5   0:05.35 vsls-agent
+ 2093 alkaita+  20   0  563840  23484  12832 S   0.0  0.3   0:00.18 node
+ 3231 alkaita+  20   0 4962296   7980   4256 S   0.0  0.1   0:00.12 Microsoft.VSCod
+ 3430 alkaita+  20   0 4962296   8724   4700 S   0.0  0.1   0:00.07 Microsoft.VSCod
+ 4748 alkaita+  20   0   13556   1500   1420 S   0.0  0.0   0:00.01 ex3.sh
+ 4754 alkaita+  20   0   41272  31232    400 S   0.0  0.4   0:00.03 a.out
+ 4755 alkaita+  20   0   15740   1936   1456 R   0.0  0.0   0:00.01 top
+
+top - 13:40:51 up  2:33,  0 users,  load average: 0.52, 0.58, 0.59
+Tasks:  18 total,   1 running,  17 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.5 us,  2.6 sy,  0.0 ni, 95.8 id,  0.0 wa,  1.1 hi,  0.0 si,  0.0 st
+KiB Mem :  8268420 total,  2445736 free,  5593332 used,   229352 buff/cache
+KiB Swap: 25165824 total, 24425188 free,   740636 used.  2541356 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4754 alkaita+  20   0   51516  41476    400 S   1.0  0.5   0:00.04 a.out
+    1 root      20   0    8892    228    188 S   0.0  0.0   0:00.15 init
+    7 root      20   0    8900    176    128 S   0.0  0.0   0:00.01 init
+    8 alkaita+  20   0   10660    452    424 S   0.0  0.0   0:00.03 sh
+    9 alkaita+  20   0   10660    484    452 S   0.0  0.0   0:00.01 sh
+   13 alkaita+  20   0   10660    464    436 S   0.0  0.0   0:00.00 sh
+   15 alkaita+  20   0  963908  51208  16648 S   0.0  0.6   0:15.30 node
+   34 alkaita+  20   0  860872  25204  10692 S   0.0  0.3   0:04.31 node
+   56 alkaita+  20   0 1205248 166688 161124 S   0.0  2.0   1:27.78 node
+   69 alkaita+  20   0   15076   3004   2916 S   0.0  0.0   0:00.52 bash
+   80 alkaita+  20   0 1452276  26264  22672 S   0.0  0.3   0:08.74 Microsoft.VSCod
+  123 alkaita+  20   0   10660    456    424 S   0.0  0.0   0:00.00 sh
+  124 alkaita+  20   0 3394664  41596  20004 S   0.0  0.5   0:05.35 vsls-agent
+ 2093 alkaita+  20   0  563840  23484  12832 S   0.0  0.3   0:00.18 node
+ 3231 alkaita+  20   0 4962296   7980   4256 S   0.0  0.1   0:00.12 Microsoft.VSCod
+ 3430 alkaita+  20   0 4962296   8724   4700 S   0.0  0.1   0:00.07 Microsoft.VSCod
+ 4748 alkaita+  20   0   13556   1500   1420 S   0.0  0.0   0:00.01 ex3.sh
+ 4755 alkaita+  20   0   15740   1936   1456 R   0.0  0.0   0:00.01 top
+
+top - 13:40:52 up  2:33,  0 users,  load average: 0.52, 0.58, 0.59
+Tasks:  18 total,   1 running,  17 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  1.6 sy,  0.0 ni, 97.1 id,  0.0 wa,  0.4 hi,  0.0 si,  0.0 st
+KiB Mem :  8268420 total,  2445736 free,  5593332 used,   229352 buff/cache
+KiB Swap: 25165824 total, 24425188 free,   740636 used.  2541356 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4754 alkaita+  20   0   61760  51720    400 S   2.0  0.6   0:00.06 a.out
+    1 root      20   0    8892    228    188 S   0.0  0.0   0:00.15 init
+    7 root      20   0    8900    176    128 S   0.0  0.0   0:00.01 init
+    8 alkaita+  20   0   10660    452    424 S   0.0  0.0   0:00.03 sh
+    9 alkaita+  20   0   10660    484    452 S   0.0  0.0   0:00.01 sh
+   13 alkaita+  20   0   10660    464    436 S   0.0  0.0   0:00.00 sh
+   15 alkaita+  20   0  963908  51208  16648 S   0.0  0.6   0:15.30 node
+   34 alkaita+  20   0  860872  25204  10692 S   0.0  0.3   0:04.31 node
+   56 alkaita+  20   0 1205248 166688 161104 S   0.0  2.0   1:27.78 node
+   69 alkaita+  20   0   15076   3004   2916 S   0.0  0.0   0:00.52 bash
+   80 alkaita+  20   0 1452276  26264  22672 S   0.0  0.3   0:08.74 Microsoft.VSCod
+  123 alkaita+  20   0   10660    456    424 S   0.0  0.0   0:00.00 sh
+  124 alkaita+  20   0 3394664  41596  20004 S   0.0  0.5   0:05.35 vsls-agent
+ 2093 alkaita+  20   0  563840  23484  12832 S   0.0  0.3   0:00.18 node
+ 3231 alkaita+  20   0 4962296   7980   4256 S   0.0  0.1   0:00.12 Microsoft.VSCod
+ 3430 alkaita+  20   0 4962296   8724   4700 S   0.0  0.1   0:00.07 Microsoft.VSCod
+ 4748 alkaita+  20   0   13556   1500   1420 S   0.0  0.0   0:00.01 ex3.sh
+ 4755 alkaita+  20   0   15740   1936   1456 R   0.0  0.0   0:00.01 top
+
+top - 13:40:53 up  2:33,  0 users,  load average: 0.52, 0.58, 0.59
+Tasks:  18 total,   1 running,  17 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.2 us,  3.1 sy,  0.0 ni, 89.9 id,  0.0 wa,  0.9 hi,  0.0 si,  0.0 st
+KiB Mem :  8268420 total,  2445736 free,  5593332 used,   229352 buff/cache
+KiB Swap: 25165824 total, 24425188 free,   740636 used.  2541356 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4754 alkaita+  20   0   72004  61964    400 S   1.0  0.7   0:00.07 a.out
+ 4755 alkaita+  20   0   15740   1936   1456 R   1.0  0.0   0:00.02 top
+    1 root      20   0    8892    228    188 S   0.0  0.0   0:00.15 init
+    7 root      20   0    8900    176    128 S   0.0  0.0   0:00.01 init
+    8 alkaita+  20   0   10660    452    424 S   0.0  0.0   0:00.03 sh
+    9 alkaita+  20   0   10660    484    452 S   0.0  0.0   0:00.01 sh
+   13 alkaita+  20   0   10660    464    436 S   0.0  0.0   0:00.00 sh
+   15 alkaita+  20   0  963908  51208  16648 S   0.0  0.6   0:15.30 node
+   34 alkaita+  20   0  860872  25204  10692 S   0.0  0.3   0:04.31 node
+   56 alkaita+  20   0 1205248 166692 161096 S   0.0  2.0   1:27.78 node
+   69 alkaita+  20   0   15076   3004   2916 S   0.0  0.0   0:00.52 bash
+   80 alkaita+  20   0 1452276  26264  22672 S   0.0  0.3   0:08.74 Microsoft.VSCod
+  123 alkaita+  20   0   10660    456    424 S   0.0  0.0   0:00.00 sh
+  124 alkaita+  20   0 3394680  41596  20004 S   0.0  0.5   0:05.35 vsls-agent
+ 2093 alkaita+  20   0  563840  23484  12832 S   0.0  0.3   0:00.18 node
+ 3231 alkaita+  20   0 4962296   7980   4256 S   0.0  0.1   0:00.12 Microsoft.VSCod
+ 3430 alkaita+  20   0 4962296   8724   4700 S   0.0  0.1   0:00.07 Microsoft.VSCod
+ 4748 alkaita+  20   0   13556   1500   1420 S   0.0  0.0   0:00.01 ex3.sh
+
+top - 13:40:54 up  2:33,  0 users,  load average: 0.52, 0.58, 0.59
+Tasks:  18 total,   1 running,  17 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.1 us,  2.3 sy,  0.0 ni, 94.6 id,  0.0 wa,  1.0 hi,  0.0 si,  0.0 st
+KiB Mem :  8268420 total,  2431956 free,  5607112 used,   229352 buff/cache
+KiB Swap: 25165824 total, 24425188 free,   740636 used.  2527576 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4754 alkaita+  20   0   82248  72208    400 S   1.0  0.9   0:00.08 a.out
+    1 root      20   0    8892    228    188 S   0.0  0.0   0:00.15 init
+    7 root      20   0    8900    176    128 S   0.0  0.0   0:00.01 init
+    8 alkaita+  20   0   10660    452    424 S   0.0  0.0   0:00.03 sh
+    9 alkaita+  20   0   10660    484    452 S   0.0  0.0   0:00.01 sh
+   13 alkaita+  20   0   10660    464    436 S   0.0  0.0   0:00.00 sh
+   15 alkaita+  20   0  963908  51208  16648 S   0.0  0.6   0:15.30 node
+   34 alkaita+  20   0  860872  25204  10692 S   0.0  0.3   0:04.31 node
+   56 alkaita+  20   0 1205248 166696 161096 S   0.0  2.0   1:27.78 node
+   69 alkaita+  20   0   15076   3004   2916 S   0.0  0.0   0:00.52 bash
+   80 alkaita+  20   0 1452276  26264  22672 S   0.0  0.3   0:08.74 Microsoft.VSCod
+  123 alkaita+  20   0   10660    456    424 S   0.0  0.0   0:00.00 sh
+  124 alkaita+  20   0 3394680  41596  20004 S   0.0  0.5   0:05.35 vsls-agent
+ 2093 alkaita+  20   0  563840  23484  12832 S   0.0  0.3   0:00.18 node
+ 3231 alkaita+  20   0 4962296   7980   4256 S   0.0  0.1   0:00.12 Microsoft.VSCod
+ 3430 alkaita+  20   0 4962296   8724   4700 S   0.0  0.1   0:00.07 Microsoft.VSCod
+ 4748 alkaita+  20   0   13556   1500   1420 S   0.0  0.0   0:00.01 ex3.sh
+ 4755 alkaita+  20   0   15740   1936   1456 R   0.0  0.0   0:00.02 top
+
+top - 13:40:55 up  2:33,  0 users,  load average: 0.52, 0.58, 0.59
+Tasks:  18 total,   1 running,  17 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.2 us,  1.9 sy,  0.0 ni, 92.4 id,  0.0 wa,  0.5 hi,  0.0 si,  0.0 st
+KiB Mem :  8268420 total,  2431956 free,  5607112 used,   229352 buff/cache
+KiB Swap: 25165824 total, 24425188 free,   740636 used.  2527576 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+    1 root      20   0    8892    228    188 S   0.0  0.0   0:00.15 init
+    7 root      20   0    8900    176    128 S   0.0  0.0   0:00.01 init
+    8 alkaita+  20   0   10660    452    424 S   0.0  0.0   0:00.03 sh
+    9 alkaita+  20   0   10660    484    452 S   0.0  0.0   0:00.01 sh
+   13 alkaita+  20   0   10660    464    436 S   0.0  0.0   0:00.00 sh
+   15 alkaita+  20   0  963908  51212  16648 S   0.0  0.6   0:15.30 node
+   34 alkaita+  20   0  860872  25204  10692 S   0.0  0.3   0:04.31 node
+   56 alkaita+  20   0 1205248 166696 161096 S   0.0  2.0   1:27.78 node
+   69 alkaita+  20   0   15076   3004   2916 S   0.0  0.0   0:00.52 bash
+   80 alkaita+  20   0 1452276  26264  22672 S   0.0  0.3   0:08.74 Microsoft.VSCod
+  123 alkaita+  20   0   10660    456    424 S   0.0  0.0   0:00.00 sh
+  124 alkaita+  20   0 3394664  41596  20004 S   0.0  0.5   0:05.35 vsls-agent
+ 2093 alkaita+  20   0  563840  23484  12828 S   0.0  0.3   0:00.18 node
+ 3231 alkaita+  20   0 4962296   7980   4256 S   0.0  0.1   0:00.12 Microsoft.VSCod
+ 3430 alkaita+  20   0 4962296   8724   4700 S   0.0  0.1   0:00.07 Microsoft.VSCod
+ 4748 alkaita+  20   0   13556   1500   1420 S   0.0  0.0   0:00.01 ex3.sh
+ 4754 alkaita+  20   0   92492  82452    400 S   0.0  1.0   0:00.08 a.out
+ 4755 alkaita+  20   0   15740   1936   1456 R   0.0  0.0   0:00.02 top
+
+top - 13:40:56 up  2:33,  0 users,  load average: 0.52, 0.58, 0.59
+Tasks:  18 total,   2 running,  16 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13.1 us,  4.0 sy,  0.0 ni, 82.3 id,  0.0 wa,  0.6 hi,  0.0 si,  0.0 st
+KiB Mem :  8268420 total,  2431956 free,  5607112 used,   229352 buff/cache
+KiB Swap: 25165824 total, 24425188 free,   740636 used.  2527576 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+   56 alkaita+  20   0 1205248 167076 165840 R   7.0  2.0   1:27.85 node
+ 4754 alkaita+  20   0  102736  92696    400 S   2.0  1.1   0:00.10 a.out
+    1 root      20   0    8892    228    188 S   0.0  0.0   0:00.15 init
+    7 root      20   0    8900    176    128 S   0.0  0.0   0:00.01 init
+    8 alkaita+  20   0   10660    452    424 S   0.0  0.0   0:00.03 sh
+    9 alkaita+  20   0   10660    484    452 S   0.0  0.0   0:00.01 sh
+   13 alkaita+  20   0   10660    464    436 S   0.0  0.0   0:00.00 sh
+   15 alkaita+  20   0  963908  51332  16648 S   0.0  0.6   0:15.30 node
+   34 alkaita+  20   0  860872  25444  10692 S   0.0  0.3   0:04.31 node
+   69 alkaita+  20   0   15076   3004   2916 S   0.0  0.0   0:00.52 bash
+   80 alkaita+  20   0 1452276  26260  22668 S   0.0  0.3   0:08.74 Microsoft.VSCod
+  123 alkaita+  20   0   10660    456    424 S   0.0  0.0   0:00.00 sh
+  124 alkaita+  20   0 3394664  41596  20004 S   0.0  0.5   0:05.35 vsls-agent
+ 2093 alkaita+  20   0  563840  23484  12828 S   0.0  0.3   0:00.18 node
+ 3231 alkaita+  20   0 4962296   7980   4256 S   0.0  0.1   0:00.12 Microsoft.VSCod
+ 3430 alkaita+  20   0 4962296   8724   4700 S   0.0  0.1   0:00.07 Microsoft.VSCod
+ 4748 alkaita+  20   0   13556   1500   1420 S   0.0  0.0   0:00.01 ex3.sh
+ 4755 alkaita+  20   0   15740   1936   1456 R   0.0  0.0   0:00.02 top
+
+top - 13:40:57 up  2:33,  0 users,  load average: 0.52, 0.58, 0.59
+Tasks:  18 total,   2 running,  16 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.6 us,  9.2 sy,  0.0 ni, 75.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :  8268420 total,  2379480 free,  5659588 used,   229352 buff/cache
+KiB Swap: 25165824 total, 24425232 free,   740592 used.  2475100 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+   56 alkaita+  20   0 1205248 167192 165956 R  21.0  2.0   1:28.06 node
+ 4754 alkaita+  20   0  112980 102940    400 S   3.0  1.2   0:00.13 a.out
+    1 root      20   0    8892    228    188 S   0.0  0.0   0:00.15 init
+    7 root      20   0    8900    176    128 S   0.0  0.0   0:00.01 init
+    8 alkaita+  20   0   10660    452    424 S   0.0  0.0   0:00.03 sh
+    9 alkaita+  20   0   10660    484    452 S   0.0  0.0   0:00.01 sh
+   13 alkaita+  20   0   10660    464    436 S   0.0  0.0   0:00.00 sh
+   15 alkaita+  20   0  963908  51332  16648 S   0.0  0.6   0:15.30 node
+   34 alkaita+  20   0  860872  25444  10692 S   0.0  0.3   0:04.31 node
+   69 alkaita+  20   0   15076   3004   2916 S   0.0  0.0   0:00.52 bash
+   80 alkaita+  20   0 1452276  26260  22668 S   0.0  0.3   0:08.74 Microsoft.VSCod
+  123 alkaita+  20   0   10660    456    424 S   0.0  0.0   0:00.00 sh
+  124 alkaita+  20   0 3394664  41592  20000 S   0.0  0.5   0:05.35 vsls-agent
+ 2093 alkaita+  20   0  563840  23484  12828 S   0.0  0.3   0:00.18 node
+ 3231 alkaita+  20   0 4962296   7980   4256 S   0.0  0.1   0:00.12 Microsoft.VSCod
+ 3430 alkaita+  20   0 4962296   8724   4700 S   0.0  0.1   0:00.07 Microsoft.VSCod
+ 4748 alkaita+  20   0   13556   1500   1420 S   0.0  0.0   0:00.01 ex3.sh
+ 4755 alkaita+  20   0   15740   1936   1456 R   0.0  0.0   0:00.02 top

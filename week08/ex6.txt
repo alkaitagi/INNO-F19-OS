@@ -1,0 +1,1 @@
+8KB is 2^13, which means that 13 bits are dedicated for page offset. Bits for page number: 16-13=3, which means that we can have 2^3=8 pages in such table.
