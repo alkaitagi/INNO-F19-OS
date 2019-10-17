@@ -1,0 +1,5 @@
+1 2 3 4 1 2 3 4 1 2 3 4
+
+This sequence will result in only 4 misses (that is when we initially populate the storage) given we use at least 4 frames.
+
+It is because the total number of the pages is less than available storage, so once the storage is populated, we will always find the next page and replacement will not be needed at all.
