@@ -1,0 +1,5 @@
+Because we used Line Buffering, outputs will be different. The buffering prints text when '\n' symbol met, i.e. new line inserted.
+
+In the first program we branch process with "Hello" in the buffer, so each branch will push '\n' into buffer with "Hello" in it, therefore triggering buffer print, which will result in: "Hello\nHello\n".
+
+In the second program we inlude '\n' into "Hello", so the buffer is immediately printed before we branch process, and each process will push '\n' into already emptied line, which will result in: "Hello\n\n\n".
